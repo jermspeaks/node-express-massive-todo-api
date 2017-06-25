@@ -22,6 +22,6 @@
   },
   "devDependencies": {
     "db-migrate": "^0.10.0-beta.20",
-    "db-migrate-pg": "^0.1.11"
+    "db-migrate-pg": "^0.1.12"
   }
 }
