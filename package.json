@@ -10,7 +10,7 @@
     "db:stop": "pg_ctl -D /usr/local/var/postgres stop"
   },
   "dependencies": {
-    "body-parser": "~1.17.1",
+    "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.2",
     "dotenv": "^2.0.0",
